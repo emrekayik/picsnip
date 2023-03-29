@@ -1,0 +1,23 @@
+{
+  "name": "picsnip",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "picsnip": "./index.js"
+  },
+  "author": "Emre Kayık <emrekayik1905@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.11.0",
+    "highlight.js": "^11.7.0",
+    "html-to-image": "^1.11.11",
+    "inquirer": "^9.1.5",
+    "node-html-to-image": "^3.3.0",
+    "prettier": "1.12.1"
+  }
+}
